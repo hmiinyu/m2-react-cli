@@ -3,13 +3,20 @@
   "version": "1.0.0",
   "description": "Create a react app rapidly based on react-app-boilerplate.",
   "bin": {
-    "m2-react-cli": "bin/cli"
+    "m2-react-cli": "bin/m2-react-cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hmiinyu/m2-react-cli.git"
   },
   "keywords": [
-    "m2",
     "react",
     "redux",
-    "boilerplate",
+    "m2-core",
+    "m2-react",
+    "m2-redux",
+    "create-react-app",
+    "react-app-boilerplate",
     "m2-react-cli"
   ],
   "author": "Miracle He",
