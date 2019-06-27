@@ -7,5 +7,4 @@ Create a react app rapidly based on react-app-boilerplate.
 - Install
 ```bash
 npm install m2-react-cli -g
-```bash
 m2-react-cli init my-react-app
