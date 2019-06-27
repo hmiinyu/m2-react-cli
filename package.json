@@ -1,0 +1,25 @@
+{
+  "name": "m2-react-cli",
+  "version": "1.0.0",
+  "description": "Create a react app rapidly based on react-app-boilerplate.",
+  "bin": {
+    "m2-react-cli": "bin/cli"
+  },
+  "keywords": [
+    "m2",
+    "react",
+    "redux",
+    "boilerplate",
+    "m2-react-cli"
+  ],
+  "author": "Miracle He",
+  "preferGlobal": true,
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "download-git-repo": "^2.0.0",
+    "inquirer": "^6.4.1",
+    "ora": "^3.4.0"
+  }
+}
